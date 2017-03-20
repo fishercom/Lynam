@@ -1,0 +1,8 @@
+{
+  "rules": {
+    "perfiles": {
+      ".read": "auth != null",
+      ".write": "auth != null"
+    }
+  }
+}
